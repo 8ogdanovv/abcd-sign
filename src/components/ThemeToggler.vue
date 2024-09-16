@@ -23,7 +23,7 @@ const theme = ref(getTheme())
 
 const toggleTheme = () => {
   theme.value = theme.value === 'light' ? 'dark' : 'light'
-  window.location.reload()
+  window.location = 'https://8ogdanovv.github.io/abcd-sign/'
 }
 
 const setTheme = theme => {
