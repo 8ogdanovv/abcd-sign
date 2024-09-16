@@ -1,0 +1,1 @@
+import{a as r,b as s}from"./index-Dp_XdtBC.js";const a=(t,e)=>{const o=t.__vccOpts||t;for(const[c,n]of e)o[c]=n;return o},_={};function f(t,e){return r(),s("div",null," 404 ")}const u=a(_,[["render",f]]);export{u as default};
